@@ -1,6 +1,6 @@
 # Calculator in React JS
 
-## Demo:
+## Demo: https://calculator-in-react.netlify.app/
 
 ## Installation:
 
